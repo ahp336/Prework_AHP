@@ -1,0 +1,64 @@
+
+/* Change header text align */
+h1 {
+    text-align: center;
+}
+
+/* Change color of first paragraph */
+#p1{
+    color: red;
+}
+
+/* Change color of second paragraph */
+#p2{
+    color: blue;
+}
+
+/* Change color of thrid paragraph */
+#p3{
+    color: green;
+}
+
+/* Making paragraph bolder */
+#p4{
+    font-size: x-large;
+}
+
+/* Class for paragraph */
+#p5{
+    font-size: x-small;
+}
+
+/* Class for paragraph */
+#p6{
+    text-align: center;
+}
+
+/* Making font bolder */
+#p7{
+    font-weight: bolder;
+}
+
+/* Changing font */
+#p8{
+    font-family: cursive;
+
+}
+
+/* Changing multiple attributes */
+#p9{
+    color: orange;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+/* Using Class */
+.styledFont{
+    color: green;
+
+}
+
+/* Styling Image */
+#styledImage{
+    border: 10px solid orange;
+}
